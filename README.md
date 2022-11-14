@@ -8,7 +8,7 @@ Data visualization is the graphical representation of information and data in a 
 
 The goal is to analyse three different datasets: Election Donor Dataset, Stock market analysis dataset and Titanic dataset, analyse their data in orderto draw some conclusions from it and then display the outcome in graphical manner.
 
-## Modules Used
+## Python Modules 
 
 Some of the modules used in this project are:
 
